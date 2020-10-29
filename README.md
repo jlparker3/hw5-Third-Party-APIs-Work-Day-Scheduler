@@ -10,7 +10,9 @@ The purpose of this application was to create a customizable simple work day pla
 I enjoyed this project throughly. It challenged me enough with using local storage and incorporating moment.js within javascript. I felt like this was managable since I pseudo coded my javascript first. Once I understood the logic behind it all, it was simply piecing everything together.
 
 # Screenshots of working application
+https://user-images.githubusercontent.com/68556793/97602142-f80a7f80-19d8-11eb-928c-d1aa5d2cbe33.png
 
+https://user-images.githubusercontent.com/68556793/97602131-f5a82580-19d8-11eb-9b74-d8959483a8db.png
 
 ## Acceptance Criteria
 
